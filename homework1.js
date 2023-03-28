@@ -1,35 +1,44 @@
-const leatherBracelets = [
+const bracelets = [
     {
-    base: "grey",
+        name: "basegrey",
+        material: "leather",
     color: "grey",
 },
 {
-    base: "white",
+    name: "basewhite",
+    material: "leather",
     color: "white",
 },
 {
-    base: "black",
+    name: "baseblack",
+    material: "leather",
     color: "black",
 },
 {
-    base: "pink",
+    name: "basepink",
+    material: "leather",
     color: "pink",
 },
 {
-    base: "red",
+    name: "basered",
+    material: "leather",
     color: "red",
 },
 {
-    base: "brown",
+    name: "basebrown",
+    material: "leather",
     color: "brown",
 },
 +
  {
-    base: "blue",
+    name: "baseblue",
+     material: "leather",
     color: "blue",
 },
 {
-    base: "yellow",
+    name: "baseyellow",
+    material: "leather",
     color: "yellow",
 },
 ];
+
