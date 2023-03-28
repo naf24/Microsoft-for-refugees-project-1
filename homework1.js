@@ -33,3 +33,18 @@ const leatherBracelets = [
     color: "yellow",
 },
 ];
+
+// Korey's Proposed Changes 
+
+const bracelets = [
+  {
+    name: "baseblue",
+    material: "leather",
+    color: "yellow",
+  },
+  {
+    name: "baseyellow",
+    material: "leather",
+    color: "yellow",
+  },
+];
