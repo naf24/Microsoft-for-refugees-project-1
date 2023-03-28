@@ -1,32 +1,35 @@
-const basegrey = {
-    material: leather,
-    color: grey,
-};
-const basewhite = {
-    material: leather,
-    color: white,
-};
-const baseblack = {
-    material: leather,
-    color: black,
-};
-const basepink = {
-    material: leather,
-    color: pink,
-};
-const basered = {
-    material: leather,
-    color: red,
-};
-const basebrown = {
-    material: leather,
-    color: brown,
-};
-const baseblue = {
-    material: leather,
-    color: blue,
-};
-const baseyellow = {
-    material: leather,
-    color: yellow,
-};
+const leatherBracelets = [
+    {
+    base: "grey",
+    color: "grey",
+},
+{
+    base: "white",
+    color: "white",
+},
+{
+    base: "black",
+    color: "black",
+},
+{
+    base: "pink",
+    color: "pink",
+},
+{
+    base: "red",
+    color: "red",
+},
+{
+    base: "brown",
+    color: "brown",
+},
++
+ {
+    base: "blue",
+    color: "blue",
+},
+{
+    base: "yellow",
+    color: "yellow",
+},
+];
