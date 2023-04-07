@@ -78,3 +78,6 @@ if (let day <= 2) {
 
 let day <= 7 ? <const eyes1 const forehead const nose const lips const lift const neck> : <"Make a payment to get an access to face yoga program!">;
 
+    const part1 ["eyes1", "forehead", "lift"];
+    const part2 ["nose", "cheeks", "lips"];
+    const part3 ["eyes2", "cheekbones", "neck"];
