@@ -82,6 +82,6 @@ let day <= 7 ? <const eyes1 const forehead const nose const lips const lift cons
     const part2 ["nose", "cheeks", "lips"];
     const part3 ["eyes2", "cheekbones", "neck"];
 
-    const week1 = [part1];
-    const week2 = [part1, part2];
-    const week3 = [week2, part3];
+    const week1 = [...part1];
+    const week2 = [...part1, ...part2];
+    const week3 = [...week2, ...part3];
