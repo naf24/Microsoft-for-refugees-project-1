@@ -32,7 +32,7 @@ let day = 1;
 
 if (let day <= 7) {
     console.log(const eyes1, const nose, const lift, const neck);
-} else if (let day => 8 <= 20) {
+} else if (let day => 8 && let day <= 20) {
     console.log(const eyes1, const eyes2, const forehead, const nose, const cheeks, const cheekbones, const lift, const neck);
 } else if (let day <= 121) {
     console.log(const eyes1, const eyes2, const forehead, const nose, const cheeks, const cheekbones, const lips, const lift, const neck);
@@ -56,7 +56,7 @@ if (let day <= 2) {
 
 if (let day <= 7) {
     console.log(const eyes1, const nose, const lift, const neck);
-} else if (let day => 8 <= 20) {
+} else if (let day >= 8 && let day <= 20) {
     console.log(const eyes1, const eyes2, const forehead, const nose, const cheeks, const cheekbones, const lift, const neck);
 } else if (let day <= 184) {
     console.log(const eyes1, const eyes2, const forehead, const nose, const cheeks, const cheekbones, const lips, const lift, const neck);
@@ -68,10 +68,11 @@ if (let day <= 7) {
 
 if (let day <= 7) {
     console.log(const eyes1, const nose, const lift, const neck);
-} else if (let day => 8 <= 20) {
+} else if (let day >= 8 && let day <= 20) {
     console.log(const eyes1, const eyes2, const forehead, const nose, const cheeks, const cheekbones, const lift, const neck);
 } else if (let day <= 366) {
     console.log(const eyes1, const eyes2, const forehead, const nose, const cheeks, const cheekbones, const lips, const lift, const neck);
 } else {
     console.log("Please make a payment for the further use of the face yoga exercises");
 };
+
