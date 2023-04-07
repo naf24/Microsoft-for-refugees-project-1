@@ -36,7 +36,9 @@ if (let day <= 7) {
     console.log(const eyes1, const eyes2, const forehead, const nose, const cheeks, const cheekbones, const lift, const neck);
 } else if (let day <= 121) {
     console.log(const eyes1, const eyes2, const forehead, const nose, const cheeks, const cheekbones, const lips, const lift, const neck);
-} else (console.log "Please make a payment for the further use of the face yoga exercises");
+} else {
+    console.log("Please make a payment for the further use of the face yoga exercises");
+};
 
 //free one week program
 
@@ -46,6 +48,6 @@ if (let day <= 2) {
     console.log(const eyes1, const forehead, const nose, const lips, const lift);
 } else if (let day <= 7) {
     console.log(const eyes1, const forehead, const nose, const lips, const lift, const neck)    
-} else (let day => 8) {
+} else {
     console.log("Make a payment to get an access to face yoga program!")
 };
