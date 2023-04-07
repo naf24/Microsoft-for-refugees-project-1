@@ -76,4 +76,5 @@ if (let day <= 2) {
     console.log("Make a payment to get an access to face yoga program!");
 };
 
-let day <= 7 ? <const eyes1 const forehead const nose const lips const lift const neck> : <"Make a payment to get an access to face yoga program!">
+let day <= 7 ? <const eyes1 const forehead const nose const lips const lift const neck> : <"Make a payment to get an access to face yoga program!">;
+
