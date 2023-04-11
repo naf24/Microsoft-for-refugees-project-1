@@ -85,7 +85,7 @@ if (day <= 2) {
     console.log("Make a payment to get an access to face yoga program!");
 };
 
-let day <= 7 ? <const eyes1 const forehead const nose const lips const lift const neck> : <"Make a payment to get an access to face yoga program!">;
+day <= 7 ? < eyes1 const forehead const nose const lips const lift const neck> : <"Make a payment to get an access to face yoga program!">;
 
     const part1 ["eyes1", "forehead", "lift"];
     const part2 ["nose", "cheeks", "lips"];
