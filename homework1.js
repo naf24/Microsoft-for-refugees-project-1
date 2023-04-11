@@ -41,7 +41,7 @@ let day = 1;
 
 if (day <= 7) {
     console.log(eyes1, nose, lift, neck);
-} else if (day => 8 && let day <= 20) {
+} else if (day => 8 && day <= 20) {
     console.log(eyes1, eyes2, forehead, nose, cheeks, cheekbones, lift, neck);
 } else if (day <= 121) {
     console.log(eyes1, eyes2, forehead, nose, cheeks, cheekbones, lips, lift, neck);
@@ -53,7 +53,7 @@ if (day <= 7) {
 
 if (day <= 7) {
     console.log(eyes1, nose, lift, neck);
-} else if (day >= 8 && let day <= 20) {
+} else if (day >= 8 && day <= 20) {
     console.log(eyes1, eyes2, forehead, nose, cheeks, cheekbones, lift, neck);
 } else if (day <= 184) {
     console.log(eyes1, eyes2, forehead, nose, cheeks, cheekbones, lips, lift, neck);
