@@ -17,7 +17,7 @@ const exercise = {
     steps: [
         { name: 'stay straight, look forward', learned: true },
         { name: 'put your forefingers under your brows and fix them', learned: true },
-        { name: 'try to raise your brows', plearned: false },
+        { name: 'try to raise your brows', learned: false },
         { name: 'hinder your brows from raising with your forefingers', learned: true },
         { name: 'count to 20', learned: true },
         { name: 'relax', learned: true },
@@ -26,10 +26,10 @@ const exercise = {
     return (
         <article>
             <h1>Training Manager</h1>
-            {/* TODO: Add RecipeTitle component */}
-<RecipeTitle title={ recipe.title } />
-            {/* TODO: Add IngredientList component */}
-
+           
+<ExerciseTitle title={ exercise.title } />
+            
+<ExerciseList items={exercise.items} />
         </article>
     )
 }
